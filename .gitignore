@@ -1,0 +1,6 @@
+/node_modules
+/dist
+
+# 개발툴 관련 설정화일
+.idea
+package-lock.json
